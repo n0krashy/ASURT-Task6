@@ -1,5 +1,23 @@
 # Task6
 
+## Develop Single Page angular application
+
+### The application consists of four components
+1. **Navbar** with these navItems:
+   - Home
+   - Photos
+   - About
+2. **Home** (consists of paragraph and racing team logo)
+3. **Photos** (consists of cards)
+4. **AboutUs** (consist of some data about yourself)
+
+#### The application have a routing system, when navbar item is clicked it navigates to it's component.
+
+#### Each card have a data consist of a get request form the following [URL](https://jsonplaceholder.typicode.com/photos).
+
+#### Each card have a title of the photo and the photo itself.
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
 
 ## Development server
