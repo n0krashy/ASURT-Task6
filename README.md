@@ -3,7 +3,7 @@
 ## Develop Single Page angular application
 
 ### The application consists of four components
-1. **Navbar** with these navItems:
+1. **Navbar** with the following nav-Items:
    - Home
    - Photos
    - About
